@@ -13,3 +13,9 @@ Another 568 images (of 1,636 pulled in) gathered from more curvy lines to assist
 In total, 1,761 original images. 
 After checking histograms for each coefficient of each label for distribution, I created an additional 4,404 images using small rotations of the images outside the very center of the original distribution of images. This was done in three rounds of slowly moving outward from the center of the data (so those further out from the center of the distribution were done multiple times). 6,382 images existed at this point.
 Finally, I added horizontal flips of each and every road image and its corresponding label, which doubled the total images. All in all, there were a total of 12,764 images for training. 
+
+![1](https://user-images.githubusercontent.com/34485564/159104013-90daf40b-eef5-4841-9d49-2424900c3270.jpeg)
+
+![2](https://user-images.githubusercontent.com/34485564/159104017-ca4b9d38-53d5-4729-bf5c-4f1b6e6717a1.jpeg)
+![3](https://user-images.githubusercontent.com/34485564/159104020-dc9cb7d3-3ba9-4d45-8c49-9d5de99a7d61.jpeg)
+![4](https://user-images.githubusercontent.com/34485564/159104024-e07a22bb-2c95-44b9-8159-dcf42125bf2c.jpeg)
